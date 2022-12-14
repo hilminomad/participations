@@ -139,6 +139,9 @@ img {
   .button_wrapper :first-child {
     margin-bottom: 1em;
   }
+  button{
+  width: 100%;
+  }
 }
 
 @media (max-width: 26.5625em) {
